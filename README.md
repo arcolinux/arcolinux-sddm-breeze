@@ -1,1 +1,1 @@
-# ArcoLinux Sddm Breeze
+# ArcoLinux Sddm Plasma Breeze
