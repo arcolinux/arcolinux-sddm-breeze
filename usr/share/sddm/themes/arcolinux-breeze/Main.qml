@@ -108,6 +108,7 @@ PlasmaCore.ColorScope {
             }
         }
 /* wallpaperfaderstart
+
         WallpaperFader {
             visible: config.type === "image"
             anchors.fill: parent
@@ -117,6 +118,7 @@ PlasmaCore.ColorScope {
             footer: footer
             clock: clock
         }
+        
 wallpaperfaderstop */
 
         DropShadow {
