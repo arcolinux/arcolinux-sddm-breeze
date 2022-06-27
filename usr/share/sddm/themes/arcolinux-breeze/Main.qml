@@ -107,7 +107,8 @@ PlasmaCore.ColorScope {
                 }
             }
         }
-/*        WallpaperFader {
+/* wallpaperfaderstart
+        WallpaperFader {
             visible: config.type === "image"
             anchors.fill: parent
             state: loginScreenRoot.uiVisible ? "on" : "off"
@@ -116,7 +117,8 @@ PlasmaCore.ColorScope {
             footer: footer
             clock: clock
         }
-*/
+wallpaperfaderstop */
+
         DropShadow {
             id: clockShadow
             anchors.fill: clock
